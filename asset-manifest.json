@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hjpchess/static/css/main.76df184d.css",
-    "main.js": "/hjpchess/static/js/main.60e7026b.js",
+    "main.js": "/hjpchess/static/js/main.971a26cd.js",
     "static/media/bg2.JPG": "/hjpchess/static/media/bg2.05e2a4647a8f9d2f2498.JPG",
     "static/media/bg3.JPG": "/hjpchess/static/media/bg3.965622f27880a7dca195.JPG",
     "static/media/bg1.JPG": "/hjpchess/static/media/bg1.a9340a53278026f54ff2.JPG",
@@ -19,10 +19,10 @@
     "static/media/fa-v4compatibility.woff2": "/hjpchess/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/hjpchess/index.html",
     "main.76df184d.css.map": "/hjpchess/static/css/main.76df184d.css.map",
-    "main.60e7026b.js.map": "/hjpchess/static/js/main.60e7026b.js.map"
+    "main.971a26cd.js.map": "/hjpchess/static/js/main.971a26cd.js.map"
   },
   "entrypoints": [
     "static/css/main.76df184d.css",
-    "static/js/main.60e7026b.js"
+    "static/js/main.971a26cd.js"
   ]
 }
